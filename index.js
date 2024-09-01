@@ -10,3 +10,9 @@ const solution = (number) => {
 };
 
 console.log(solution(200));
+
+//This code add every
+// multiplier of 3 and 5 before the inputed number
+// if a number is both a
+// multiplier of 3 and 5 just add it once
+``;
